@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <>
     <Head>
-      <title>Mgr030(deconeko) Portfolio</title>
+      <title>deconeko Portfolio</title>
     </Head>
       <Link href="/linkSample">
         <a>link Sample Page</a>
