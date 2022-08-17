@@ -8,7 +8,7 @@ const Index = () => {
       <title>deconeko Portfolio</title>
     </Head>
       <section>
-        <P>Hello</P>
+        <p>Hello</p>
       </section>
       <Link href="/linkSample">
         <a>link Sample Page</a>
